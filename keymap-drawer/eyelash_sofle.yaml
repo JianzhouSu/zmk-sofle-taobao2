@@ -60,8 +60,8 @@ layers:
   - Func
   - ShFunc
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
+  - $$mdi:keyboard-space$$
   - Func
   - PRINTSCREEN
   - $$mdi:apple-keyboard-control$$
@@ -154,8 +154,8 @@ layers:
   - PG UP
   - _
   - +
-  - F11
-  - F12
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - OUT USB
